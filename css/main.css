@@ -35,6 +35,9 @@
   width: 60%;
   opacity: calc(0.7);
 }
+td{
+  height: 40px;
+}
 
 @media (max-width: 991px) {
   .hola{
